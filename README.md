@@ -25,6 +25,9 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+###
+<img src="https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DeveloperAhmadHassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
